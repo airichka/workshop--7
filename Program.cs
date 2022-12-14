@@ -1,18 +1,30 @@
-﻿/* адача 47. Задайте двумерный массив размером m×n, заполненный 
-случайными вещественными числами.
-m = 3, n = 4.
-0,5 7 -2 -0,2
-1 -3,3 8 -9,9
-8 7,8 -7,1 9*/
+﻿/* Задача 50. Напишите программу, которая на вход 
+принимает позиции элемента в двумерном массиве, и возвращает 
+значение этого элемента или же указание, что такого элемента нет.
+Например, задан массив:
+1 4 7 2
+5 9 2 3
+8 4 2 4
+17 -> такого числа в массиве нет*/
 
-double[,] array = new double [5,5];
+int [,] array = new int [4,4];
+int n = 9;
+
 for (int i = 0; i < array.GetLength(0); i++ )
 {
     for (int j = 0; j < array.GetLength(1); j++)
     {
-        array [i, j] = new Random().Next(200) / 10.0 -10;
+        array [i, j] = new Random().Next(10);
         Console.Write($"{array[i, j]}" );
     }
     Console.WriteLine();
     }
 
+bool find = false; 
+foreach (var i in array)
+if (i == n) {find = true; break; }
+
+if (find)
+Console.Write($"Число присутствует");
+else 
+Console.Write($"Число не присутствует"); 
