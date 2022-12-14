@@ -1,0 +1,15 @@
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.AssemblyInfoInputs.cache
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.AssemblyInfo.cs
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\ws 7\bin\Debug\net6.0\ws 7.exe
+C:\Users\Иришка\Desktop\ws 7\bin\Debug\net6.0\ws 7.deps.json
+C:\Users\Иришка\Desktop\ws 7\bin\Debug\net6.0\ws 7.runtimeconfig.json
+C:\Users\Иришка\Desktop\ws 7\bin\Debug\net6.0\ws 7.dll
+C:\Users\Иришка\Desktop\ws 7\bin\Debug\net6.0\ws 7.pdb
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.dll
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\refint\ws 7.dll
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.pdb
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ws 7.genruntimeconfig.cache
+C:\Users\Иришка\Desktop\ws 7\obj\Debug\net6.0\ref\ws 7.dll
